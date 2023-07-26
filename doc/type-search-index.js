@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"pac","l":"Counter"},{"p":"pac","l":"CounterMax"},{"p":"pac","l":"CounterMaxException"},{"p":"pac","l":"Main"},{"p":"pac","l":"MainMax"},{"p":"pac","l":"Printable"}];updateSearchResults();
